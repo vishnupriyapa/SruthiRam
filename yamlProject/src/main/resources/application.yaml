@@ -1,0 +1,9 @@
+server:
+  port: 8898
+spring: 
+    mvc:
+           view:
+                prefix: /WEB-INF/jsp/
+                suffix: .jsp
+welcome:
+ message: Hello
